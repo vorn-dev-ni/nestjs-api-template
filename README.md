@@ -89,8 +89,8 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 ## Stay in touch
 
-- Author - [Panhavorn.Siv]
-- Website - [https://nestjs.com]([https://nestjs.com/](https://main--panhavorn-portfolio.netlify.app/))
+- Author - [Panhavorn.Siv](https://github.com/vorn-dev-ni)  
+- Website - [Personal Website]([https://nestjs.com/](https://main--panhavorn-portfolio.netlify.app/))
 - Twitter - [@nestframework](https://twitter.com/nestframework)
 
 ## License
